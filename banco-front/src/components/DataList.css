@@ -1,0 +1,28 @@
+.data-list-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .data-list-title {
+    text-align: center;
+  }
+  
+  .p-datatable-custom {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .p-datatable-header th {
+    text-align: right;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .p-datatable-row td {
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .no-data-message {
+    text-align: center;
+  }
